@@ -17,7 +17,8 @@ Litecoin: MG8Rb5uXL9aHk59RHuXjnPcwMsouZyuaAg
 Before running the account checking tool, please install the necessary things first by running the command:
 ```
 ┌──(root💀localhost)-[~]
-└─# bash install.sh
+└─# pkg install figlet
+└─# pip install request
 ```
 After that, make sure you put the accounts that you will check in the combos.txt file with a format like this:
 ```
