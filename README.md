@@ -4,8 +4,8 @@ This is a useful tool for checking Akulaku Merchant accounts created by Gh05t666
 # For Educational Purposes Only
 I am not at all responsible for the impact arising from using this tool.
 
-# Donate
-Litecoin: 
+#Donate
+Litecoin: MG8Rb5uXL9aHk59RHuXjnPcwMsouZyuaAg
 
 # HOW TO USE
 ```
