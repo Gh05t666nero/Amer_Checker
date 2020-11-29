@@ -31,5 +31,5 @@ After this, please prepare a cup of coffee to wait for the results because the r
 
 # Issues?
 * Report on Github
-* Order directly to [Instagram] (https://instagram.com/ojan_cxs).
+* Order directly to [Instagram] (https://instagram.com/ojan_cxs/).
 * This site was built using [GitHub Pages](https://pages.github.com/).
