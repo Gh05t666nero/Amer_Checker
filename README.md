@@ -1,7 +1,7 @@
 # Amer_Checker
 This is a useful tool for checking Akulaku Merchant accounts created by Gh05t666nero using Python3 & a little touch of <3
 
-# For Educational Purposes Only
+# Disclaimer
 I am not at all responsible for the impact arising from using this tool.
 
 # Donate
